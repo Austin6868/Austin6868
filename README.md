@@ -12,6 +12,7 @@
 My name is **Austin**, I am a **Software Engineering & Business** student. I am a **self-learner** and always interested in technologies. After work, I like to **discover new frameworks** and make silly apps out of them:)
 
 ### My Experiences
+-----
 - 🔭 I’m currently working on **VotingBuck, a political data aggregation software that will become live soon!**
 - 🌱 I’m **currently** learning backend frameworks: **Java Spring and ASP.NET**
 - 💬 Ask me about **coding, gaming, fitness**
