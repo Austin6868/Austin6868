@@ -11,7 +11,7 @@ My name is **Austin**, I am a **Software Engineering & Business** student. I am 
 
 ## My Experiences
 - 🔭 I’m currently working on **VotingBuck, a political data aggregation software that will become live soon!**
-- 🌱 I’m **currently** learning backend frameworks: **Java Spring and ASP.NET**
+- 🌱 I’m **currently** learning backend frameworks: **Java Spring and ASP.NET** and **verification & testing**
 - 💬 Ask me about **coding, gaming, fitness**
 - 📫 How to reach me: **Email:** zzha63@uwo.ca, **Linkedin:** https://www.linkedin.com/in/austinzhangsite/
 - 😄 Pronouns: **He/Him**
