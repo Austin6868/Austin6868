@@ -21,7 +21,7 @@
 My name is **Austin Zhang**, I am a **Software Engineering & Business** student. I am a **self-learner** and always interested in technologies. After work, I like to **discover new frameworks** and make silly apps out of them:)
 
 ## My Experiences
-- I have a wide range of experiences in software engineering, 
+- 📚 I have a wide range of experiences in software engineering, 
   * languages: Typescript, Python, Java, C++, C#
   * front-end frameworks: ReactJS, AngularJS
   * back-end frameworks: Django, ASP.NET, NodeJS
