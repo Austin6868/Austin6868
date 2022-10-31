@@ -26,3 +26,5 @@ My name is **Austin Zhang**, I am a **Software Engineering & Business** student.
 - 💬 Ask me about **coding, gaming, fitness**
 - 📫 How to reach me: **Email:** austin.zhang908@gmail.com, [LinkedIn](https://www.linkedin.com/in/austinzhangsite/)
 - 😄 Pronouns: **He/Him**
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Austin6868&show_icons=true&theme=gotham" alt="austinzhang" />
