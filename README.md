@@ -21,22 +21,26 @@
 My name is **Austin Zhang**, I am a **Software Engineering & Business** student. I am a **self-learner** and always interested in technologies. After work, I like to **discover new frameworks** and make silly apps out of them:)
 
 ## My Experiences
+  
 - 📚 I have a wide range of experiences in software engineering, 
   * languages: Typescript, Python, Java, C++, C#
   * front-end frameworks: ReactJS, AngularJS
   * back-end frameworks: Django, ASP.NET, NodeJS
   * databases: PostgreSQL, MySQL, NoSQL, MsSQL, Redis
+  
 - 💬 Ask me about
   *  **coding**
   *  **gaming**
   *  **fitness**
 - 📫 How to reach me: **Email:** austin.zhang908@gmail.com || zzha63@uwo.ca
+  
 - 😄 Pronouns: **He/Him**
 
 ## What's Going On?
 - 🔭 I’m currently working on 
   * **[VotingBuck](https://votingbuck.com/)**, a political data aggregation software that will become live soon!
   * **WOT Aggregator**, a Kotlin-Spring applicaiton that makes it easier to look up stats for World of Tanks players(my favorite video game)
+  
 - 🌱 I’m **currently** learning 
   * backend frameworks: **Java Spring and ASP.NET**
   * languages: **Jave, Lox, Kotlin** 
