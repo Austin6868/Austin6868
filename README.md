@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello World 👋
 
 
 
@@ -14,6 +14,7 @@
   <img align="left" alt="Austin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br/>
 <br/>
 <!-- Here are some ideas to get you started: -->
 
