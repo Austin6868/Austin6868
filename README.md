@@ -21,7 +21,9 @@
 My name is **Austin Zhang**, I am a **Software Engineering & Business** student. I am a **self-learner** and always interested in technologies. After work, I like to **discover new frameworks** and make silly apps out of them:)
 
 ## My Experiences
-- 🔭 I’m currently working on **VotingBuck, a political data aggregation software that will become live soon!**
+- 🔭 I’m currently working on 
+* **VotingBuck, a political data aggregation software that will become live soon!**
+* **WOT Aggregator, a Kotlin-Spring applicaiton that makes it easier to look up stats for World of Tanks players(my favorite video game)**
 - 🌱 I’m **currently** learning backend frameworks: **Java Spring and ASP.NET**, languages: **Jave, Lox, Kotlin** and **verification & testing with Java**
 - 💬 Ask me about **coding, gaming, fitness**
 - 📫 How to reach me: **Email:** austin.zhang908@gmail.com, [LinkedIn](https://www.linkedin.com/in/austinzhangsite/)
