@@ -1,6 +1,6 @@
 # Hello World 👋
 
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Austin6868&show_icons=true&theme=gotham" alt="austinzhang" />
 
 ## Who Am I?
 <!-- **Austin6868/Austin6868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -42,4 +42,4 @@ My name is **Austin Zhang**, I am a **Software Engineering & Business** student.
   * languages: **Jave, Lox, Kotlin** 
   * and **verification & testing with Java**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Austin6868&show_icons=true&theme=gotham" alt="austinzhang" />
+
