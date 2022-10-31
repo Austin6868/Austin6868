@@ -4,6 +4,15 @@
 
 ## Who Am I?
 <!-- **Austin6868/Austin6868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<a href="https://www.instagram.com/austin_zhang98/">
+  <img align="left" alt="Austin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/AustinZ34040587">
+  <img align="left" alt="Austin Zhang | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/austinzhangsite/">
+  <img align="left" alt="Austin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!-- Here are some ideas to get you started: -->
 
