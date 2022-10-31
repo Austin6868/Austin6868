@@ -32,7 +32,7 @@ My name is **Austin Zhang**, I am a **Software Engineering & Business** student.
   *  **coding**
   *  **gaming**
   *  **fitness**
-- 📫 How to reach me: **Email:** austin.zhang908@gmail.com
+- 📫 How to reach me: **Email:** austin.zhang908@gmail.com || zzha63@uwo.ca
 - 😄 Pronouns: **He/Him**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Austin6868&show_icons=true&theme=gotham" alt="austinzhang" />
