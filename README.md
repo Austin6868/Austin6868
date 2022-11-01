@@ -42,7 +42,7 @@ My name is **Austin Zhang**, I am a **Software Engineering & Business** student.
   * **WOT Aggregator**, a Kotlin-Spring applicaiton that makes it easier to look up stats for World of Tanks players(my favorite video game:))
   
 - 🌱 I’m **currently** learning
-  * frontend frameworks: **Next.js, Angular.js**
+  * frontend frameworks: **Next.js, AngularJS**
   * backend frameworks: **Java Spring and ASP.NET**
   * languages: **Jave, Lox, Kotlin** 
   * and **verification & testing with Java**
