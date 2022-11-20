@@ -44,7 +44,7 @@ My name is **Austin Zhang**, I am a **Software Engineering & Business** student.
 - 🌱 I’m **currently** learning
   * frontend frameworks: **Next.js, AngularJS**
   * backend frameworks: **Java Spring and ASP.NET**
-  * languages: **Jave, Lox, Kotlin** 
+  * languages: **Jave, Lox(Crafting Interpreters), Kotlin** 
   * and **verification & testing with Java**
 
 
