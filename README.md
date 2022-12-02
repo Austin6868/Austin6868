@@ -1,6 +1,6 @@
 # Hello World 👋
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Austin6868&show_icons=true&theme=monokai" alt="austin-zhang" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Austin6868&show_icons=true&theme=monokai" alt="austin-zhang-stats" />
 
 ## Who Am I?
 <!-- **Austin6868/Austin6868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
