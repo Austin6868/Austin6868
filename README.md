@@ -16,7 +16,6 @@
 
 <br/>
 <br/>
-<!-- Here are some ideas to get you started: -->
 
 My name is **Austin Zhang**, I am a **Software Engineering & Business** student. I am a **self-learner** and always interested in technologies. After work, I like to **discover new frameworks** and make silly apps out of them:)
 
