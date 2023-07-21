@@ -8,10 +8,10 @@
   <img align="left" alt="Austin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/AustinZ34040587">
-  <img align="left" alt="Austin Zhang | Twitter" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg)" />
+  <img align="left" alt="Austin Zhang | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/austinzhangsite/">
-  <img align="left" alt="Austin's LinkedIn" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)" />
+  <img align="left" alt="Austin's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
 <br/>
